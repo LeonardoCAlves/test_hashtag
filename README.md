@@ -33,8 +33,6 @@ Este [Projeto](https://github.com/LeonardoCAlves/test_hashtag/blob/upstream/doc/
 📦TEST_HASHTAG
  ┣ 📂base
  ┃ ┗ 📄produtos.csv   # Arquivo contendo os dados dos produtos
- ┣ 📂dist 
- ┃ ┗ 📄main.exe   # Arquivo executável
  ┣ 📂doc
  ┃ ┗ 📄desafio.csv    # Detalhes sobre o desafio.
  ┣ 📂venv             # Ambiente virtual
@@ -61,3 +59,8 @@ setx EMAIL_PASS=sua_senha_aqui
 ### 🚀 Como Rodar o Projeto (Arquivo executável)
 
 > Importe ressaltar que o arquivo executável precisa encontrar a pasta 'Base' e o arquivo 'produtos.csv', de forma que, é necessário que a pasta 'Base' esteja na mesma pasta na qual vc guardou o arquivo main.exe
+
+## 🔗 Download do Executável
+
+Baixe o arquivo executável → [Download](https://drive.google.com/drive/folders/1ert0GBn8gJ1JVfLb2qkZkGrzOpQ6XqzP?usp=sharing).
+
