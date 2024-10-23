@@ -2,6 +2,10 @@
 
 Este [Projeto](https://github.com/LeonardoCAlves/test_hashtag/blob/upstream/doc/desafio.md) utiliza **Selenium** para automatizar o cadastro de produtos em um formulário web a partir de um arquivo CSV. O arquivo CSV contém os dados dos produtos a serem cadastrados, e o script faz login na página, preenche os campos do formulário e submete os dados automaticamente.
 
+#### 🔗 Download do Executável → [Download](https://drive.google.com/drive/folders/1ert0GBn8gJ1JVfLb2qkZkGrzOpQ6XqzP?usp=sharing).
+
+#### 🎦 Assista o vídeo → [youtube](https://www.youtube.com/watch?v=I18AkCb3xQk).
+
 ## 📑 Descrição
 
 - A automação realiza o login na página do desafio:
@@ -60,7 +64,5 @@ setx EMAIL_PASS 'sua_senha_aqui'
 
 > Importante ressaltar que o arquivo executável precisa encontrar a pasta 'Base' e o arquivo 'produtos.csv' que está dentro dela, de forma que, é necessário que a pasta 'Base' esteja na mesma pasta na qual vc guardou o arquivo main.exe
 
-## 🔗 Download do Executável
 
-Baixe o arquivo executável → [Download](https://drive.google.com/drive/folders/1ert0GBn8gJ1JVfLb2qkZkGrzOpQ6XqzP?usp=sharing).
 
