@@ -53,7 +53,7 @@ source venv/bin/activate
 ```
 - Configurar Variável de Ambiente 
 ```bash
-setx EMAIL_PASS=sua_senha_aqui
+setx EMAIL_PASS 'sua_senha_aqui'
 ```
 
 ### 🚀 Como Rodar o Projeto (Arquivo executável)
