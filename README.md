@@ -58,7 +58,7 @@ setx EMAIL_PASS 'sua_senha_aqui'
 
 ### 🚀 Como Rodar o Projeto (Arquivo executável)
 
-> Importe ressaltar que o arquivo executável precisa encontrar a pasta 'Base' e o arquivo 'produtos.csv', de forma que, é necessário que a pasta 'Base' esteja na mesma pasta na qual vc guardou o arquivo main.exe
+> Importante ressaltar que o arquivo executável precisa encontrar a pasta 'Base' e o arquivo 'produtos.csv' que está dentro dela, de forma que, é necessário que a pasta 'Base' esteja na mesma pasta na qual vc guardou o arquivo main.exe
 
 ## 🔗 Download do Executável
 
