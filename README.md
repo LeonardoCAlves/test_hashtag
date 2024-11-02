@@ -38,7 +38,7 @@ Este [Projeto](https://github.com/LeonardoCAlves/test_hashtag/blob/upstream/doc/
  ┣ 📂base
  ┃ ┗ 📄produtos.csv   # Arquivo contendo os dados dos produtos
  ┣ 📂doc
- ┃ ┗ 📄desafio.csv    # Detalhes sobre o desafio.
+ ┃ ┗ 📄desafio.md    # Detalhes sobre o desafio.
  ┣ 📂venv             # Ambiente virtual
  ┣ 📜main.py          # Script principal da automação
 ```
